@@ -1,5 +1,5 @@
 Program do obsługi uniwersalnego zasilacza sterowanego cyfrowo.
-Sterowania zasilacza za pomocą mikrokontolera z rodziny AVR - Atmega328p. 
+Za obsługę zasilaczem odpowiada mikrokontoler z rodziny AVR - Atmega328p. 
 Sterowanie zasilaczem możliwe jest za pomocy panelu sterującego (enkoder+przyciski) lub za pomocą portu szeregowego RS232.
 Zasilacz posiada następujące parametry:
 -Zakres napięć wyjściowych: 0-30V,
